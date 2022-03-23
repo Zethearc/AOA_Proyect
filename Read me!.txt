@@ -1,0 +1,11 @@
+# Subject = Analisys of Algorithm (AOA)
+# @author = Darío Sebastián Cabezas Erazo - 0402019749
+# email = dario.cabezas@yachaytech.edu.ec
+# Overleaf = https://www.overleaf.com/project/60a984611325762c6504fdef
+
+To inicialice correctly the "run.py"
+>"Epidemic-Data-for-Novel-Coronavirus-COVID-19" must be in same directory
+>"run.py"  	user needs to input a country to be processed.
+		user needs to input the database that will be processed from a list shown.
+>"run.py" will create a new directory of the selected country with an amount specific amount of neurons.
+	Numbered as "country[i].txt"
